@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy Bullets
+  - Enemies
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemies
+  - Enemy Bullets
+  - Player Bullets
+  - Laser
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1800843257
+    locked: 0
+  - name: Sprites
+    uniqueID: 2568553339
+    locked: 0
+  - name: Damage Indicator
+    uniqueID: 2876741487
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Shield
+    uniqueID: 2049463857
+    locked: 0
+  - name: Health Bar
+    uniqueID: 1911841603
+    locked: 0
+  - name: Transitions
+    uniqueID: 2586445283
+    locked: 0
+  - name: Victory Box
+    uniqueID: 1041969177
+    locked: 0
+  - name: Death Screen
+    uniqueID: 2622585823
+    locked: 0
+  - name: Fade
+    uniqueID: 1891653889
+    locked: 0
